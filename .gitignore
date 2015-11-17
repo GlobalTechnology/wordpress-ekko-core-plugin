@@ -1,0 +1,4 @@
+*.log
+.svn
+composer.phar
+conf.php
